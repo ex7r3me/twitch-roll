@@ -1,0 +1,23 @@
+{
+  "name": "twitch-roll",
+  "version": "1.0.0",
+  "description": "keep rolling rolling",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@twurple/api": "^6.1.1",
+    "@twurple/auth": "^6.1.1",
+    "@twurple/easy-bot": "^6.1.1",
+    "itty-router": "^3.0.12",
+    "lil-uuid": "^0.1.1",
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "wrangler": "^2.15.1"
+  }
+}
